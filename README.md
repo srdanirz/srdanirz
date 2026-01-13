@@ -1,6 +1,7 @@
 # Hi, I'm Daniel Ramírez
 
 **Cloud & Platform Engineer** from Chile. Started debugging with Stack Overflow, Reddit, and random GitHub repos before AI was a thing. Now a vibecoder who mass prompts until it works, then mass prompts again when it doesn't.
+
 🇨🇱 con el objetivo en 🇳🇱
 
 I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scraping sneaker sites at 3am to architecting cloud platforms. Most of my infrastructure experience is on **AWS**. Currently focused on cloud architecture, distributed systems, and convincing LLMs to write working code on the first try (still failing at that last one).
