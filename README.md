@@ -58,7 +58,7 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scra
 ### [NuMarket.app](https://numarket.app) — *Founder (2025 - Present)*
 > Chilean market intelligence platform with real-time rankings, financial metrics, and AI-generated news
 
-- **Stack:** Next.js 16, React 19, AWS Lambda, RDS PostgreSQL, Cognito, Terraform
+- **Stack:** Next.js 16, React 19, AWS, GCP, RDS PostgreSQL, Cognito, Terraform
 - Custom Coin360-style treemap visualization algorithm
 - 23 serverless functions with automated data pipelines
 - Real-time stock tracking of 150+ Chilean companies
