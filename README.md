@@ -1,8 +1,8 @@
 # Hi, I'm Daniel Ramírez
 
-**Cloud & Platform Engineer** from Chile with a track record of building SaaS products from scratch.
+**Cloud & Platform Engineer** from Chile. Vibecoder who mass-prompts AI until it works, then mass-prompts again when it doesn't.
 
-I've generated **$66K+ ARR** across multiple ventures, making end-to-end technical decisions from infrastructure to user experience. Currently focused on cloud architecture, distributed systems, and event-driven architectures.
+I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scraping sneaker sites at 3am to architecting multi-cloud platforms. Currently focused on cloud architecture, distributed systems, and convincing LLMs to write working code on the first try (still failing at that last one).
 
 ---
 
@@ -15,6 +15,7 @@ I've generated **$66K+ ARR** across multiple ventures, making end-to-end technic
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Backend**
 
@@ -22,6 +23,7 @@ I've generated **$66K+ ARR** across multiple ventures, making end-to-end technic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **Frontend**
 
@@ -29,12 +31,22 @@ I've generated **$66K+ ARR** across multiple ventures, making end-to-end technic
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Data & Automation**
+**AI & LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Data, Scraping & Automation**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-47A248?style=flat-square&logo=selenium&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?style=flat-square&logo=discord&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ---
 
