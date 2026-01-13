@@ -2,7 +2,7 @@
 
 **Cloud & Platform Engineer** from Chile. Vibecoder who mass-prompts AI until it works, then mass-prompts again when it doesn't.
 
-I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scraping sneaker sites at 3am to architecting cloud platforms. Most of my infrastructure experience is on **AWS** (Lambda, RDS, Cognito, EventBridge, SES). Currently focused on cloud architecture, distributed systems, and convincing LLMs to write working code on the first try (still failing at that last one).
+I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scraping sneaker sites at 3am to architecting cloud platforms. Most of my infrastructure experience is on **AWS**. Currently focused on cloud architecture, distributed systems, and convincing LLMs to write working code on the first try (still failing at that last one).
 
 ---
 
