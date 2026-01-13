@@ -70,9 +70,9 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scra
 > AI-powered marketing platform connecting brands with real people for authentic campaigns in Chile
 
 - **Stack:** React 18, Supabase, AWS Lambda, WhatsApp Cloud API, Azure OpenAI
+- Backed by **Google for Startups**, **AWS for Startups**, and **Microsoft for Startups** credits
 - 90% process automation through WhatsApp bots
 - Multi-cloud AI strategy (Azure OpenAI + AWS Bedrock) with circuit breaker failover
-- Real-time campaign analytics with 4.2% engagement rate (2x industry standard)
 - Video analysis pipeline with Twelve Labs for content validation
 
 ---
