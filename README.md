@@ -1,10 +1,10 @@
 # Hi, I'm Daniel Ramírez
 
-**Cloud & Platform Engineer** from Chile. Started debugging with Stack Overflow, Reddit, and random GitHub repos before AI was a thing. Now a vibecoder who mass prompts until it works, then mass prompts again when it doesn't.
+**Product Engineer (Fullstack & Cloud)** from Chile. Started debugging with Stack Overflow, Reddit, and random GitHub repos before AI was a thing. Now a vibecoder who mass-prompts until it works, then mass-prompts again when it doesn't. 🇨🇱 🇳🇱
 
-🇨🇱 con el objetivo en 🇳🇱
+I've built and shipped **$66K+ ARR** in SaaS products from scratch, bridging the gap between scalable infrastructure and real user needs. My background is a mix of "move fast" founder energy and "don't crash prod" engineering discipline. Most of my infrastructure experience is on **AWS**.
 
-I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scraping sneaker sites at 3am to architecting cloud platforms. Most of my infrastructure experience is on **AWS**. Currently focused on cloud architecture, distributed systems, and convincing LLMs to write working code on the first try (still failing at that last one).
+Currently focused on distributed systems, cost-efficient cloud architectures, and convincing LLMs to write working code on the first try.
 
 ---
 
@@ -14,7 +14,6 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -39,10 +38,8 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Twelve Labs](https://img.shields.io/badge/Twelve_Labs-000000?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
 
 **Data, Scraping & Automation**
 
@@ -51,7 +48,6 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-47A248?style=flat-square&logo=selenium&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?style=flat-square&logo=discord&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ---
 
@@ -60,9 +56,9 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 ### [NuMarket.app](https://numarket.app) — *Founder (2025 - Present)*
 > Chilean market intelligence platform with real-time rankings, financial metrics, and AI-generated news
 
-- **Stack:** Next.js 16, React 19, AWS, GCP, RDS PostgreSQL, Cognito, Terraform
+- **Stack:** Next.js 16, React 19, **Multi-Cloud (AWS + GCP)**, Terraform
 - Custom Coin360-style treemap visualization algorithm
-- 23 serverless functions with automated data pipelines
+- **Serverless Architecture:** 23 functions with automated data pipelines
 - Real-time stock tracking of 150+ Chilean companies
 - AI news generation with Claude + daily market images with Gemini
 
@@ -71,10 +67,10 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 ### [Sponsy](https://sponsy.cl) — *Co-Founder & Tech Lead (2025 - Present)*
 > AI-powered marketing platform connecting brands with real people for authentic campaigns in Chile
 
-- **Stack:** React 18, Supabase, AWS Lambda, WhatsApp Cloud API, Azure OpenAI
+- **Stack:** React 18, Supabase, AWS, WhatsApp Cloud API, AI Integration
 - Backed by **Google for Startups**, **AWS for Startups**, and **Microsoft for Startups** credits
 - 90% process automation through WhatsApp bots
-- Multi-cloud AI strategy (Azure OpenAI + AWS Bedrock) with circuit breaker failover
+- Scalable architecture integrating multiple AI models (OpenAI + Anthropic)
 - Video analysis pipeline with Twelve Labs for content validation
 
 ---
@@ -84,8 +80,8 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 
 - **Stack:** Go, Electron, React, Chrome Extensions, WebSockets
 - Queue-it virtual queue management with anti-detection mechanisms
-- Real-time task monitoring (600+ concurrent operations)
-- Circuit breaker pattern + rate limiting + TLS fingerprinting
+- Real-time task monitoring (**600+ concurrent operations**)
+- Circuit breaker pattern + rate limiting + **TLS fingerprinting**
 - Multi-site support (PuntoTicket, Ticketmaster) with plugin architecture
 
 ---
@@ -94,10 +90,9 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 > Chilean sneaker cookgroup with 100+ monthly subscriptions
 
 - **Stack:** Python, BeautifulSoup, Discord.py, Chrome Extensions
-- Real-time monitoring of 5+ Chilean retailers (Nike, Bold, Moredrops)
-- Advanced anti-bot evasion (Cloudflare bypass, TLS fingerprinting, proxy rotation)
+- Real-time monitoring of 5+ Chilean retailers (Nike, Bold, Moredrops, etc.)
+- **Advanced WAF Handling:** Cloudflare bypass, proxy rotation, and captcha solving
 - Chrome extension for checkout automation with form auto-fill
-- Multi-threaded architecture monitoring 100+ products simultaneously
 
 ---
 
@@ -107,18 +102,8 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 - **Stack:** Node.js, Express, Tesseract.js, Azure Container Apps, Service Bus, Redis
 - Distributed architecture with auto-scaling workers (0-500 replicas)
 - Smart caching with 80-90% hit rate via image hash deduplication
-- Load tested at 100k requests in 5 minutes
+- **Load tested at 100k requests** in 5 minutes
 - Complete Terraform IaC for reproducible deployments
-
----
-
-### Grady — *University Project (Inactive)*
-> AI-powered exam correction platform for Chilean universities
-
-- **Stack:** FastAPI, React 18, PostgreSQL, OpenAI, Anthropic, Google Vision
-- Multi-engine OCR pipeline (Tesseract, Google Vision, Mathpix)
-- Confidence scoring system with auto-approval thresholds
-- Async architecture supporting 1000+ concurrent corrections
 
 ---
 
@@ -126,7 +111,7 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 
 **Universidad Adolfo Ibáñez** — Industrial Engineering (Minor in Data Science) `2021 - 2025`
 
-**Erasmus University Rotterdam** — Exchange Program `2024 - 2025`
+**Erasmus University Rotterdam** — Exchange Student at RSM `2024 - 2025`
 
 ---
 
@@ -140,4 +125,4 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch, from scrapin
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielramirezfernandoy/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel@sponsy.cl)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.ramirezf2002@gmail.com)
