@@ -38,6 +38,7 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scra
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Twelve Labs](https://img.shields.io/badge/Twelve_Labs-FF6B6B?style=flat-square&logo=youtube&logoColor=white)
 
 **Data, Scraping & Automation**
 
