@@ -1,6 +1,11 @@
 # Hi, I'm Daniel Ramírez
 
-**Product Engineer (Fullstack & Cloud)** from Chile. Started debugging with Stack Overflow, Reddit, and random GitHub repos before AI was a thing. Now a vibecoder who mass-prompts until it works, then mass-prompts again when it doesn't. 🇨🇱 🇳🇱
+**Product Engineer (Fullstack & Cloud)** from Chile. Started debugging with Stack Overflow, Reddit, and random GitHub repos before AI was a thing. Now a vibecoder who mass-prompts until it works, then mass-prompts again when it doesn't.
+
+![Chile](https://img.shields.io/badge/Chile-D52B1E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgMzQxLjMiPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0wIDBoNTEydjE3MC43SDB6Ii8+PHBhdGggZmlsbD0iI0Q1MkIxRSIgZD0iTTAgMTcwLjdoNTEydjE3MC42SDB6Ii8+PHBhdGggZmlsbD0iIzAwMzg5MyIgZD0iTTAgMGgxNzAuN3YxNzAuN0gweiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Im04NS4zIDI4LjUtNi4yIDI5LjUtMjcuNi0xMi4yIDEyLjIgMjcuNi0yOS41IDYuMiAyOS41IDYuMi0xMi4yIDI3LjYgMjcuNi0xMi4yIDYuMiAyOS41IDYuMi0yOS41IDI3LjYgMTIuMi0xMi4yLTI3LjYgMjkuNS02LjItMjkuNS02LjIgMTIuMi0yNy42LTI3LjYgMTIuMnoiLz48L3N2Zz4=&logoColor=white)
+![Netherlands](https://img.shields.io/badge/Netherlands-21468B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgMzQxLjMiPjxwYXRoIGZpbGw9IiMyMTQ2OEIiIGQ9Ik0wIDIyNy41aDUxMnYxMTMuOEgweiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0wIDExMy44aDUxMnYxMTMuN0gweiIvPjxwYXRoIGZpbGw9IiNBRTFDMjgiIGQ9Ik0wIDBoNTEydjExMy44SDB6Ii8+PC9zdmc+&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-Native-green?style=flat-square)
+![English](https://img.shields.io/badge/English-IELTS_Certified-blue?style=flat-square)
 
 I've built and shipped **$66K+ ARR** in SaaS products from scratch, bridging the gap between scalable infrastructure and real user needs. My background is a mix of "move fast" founder energy and "don't crash prod" engineering discipline. Most of my infrastructure experience is on **AWS**.
 
