@@ -2,7 +2,7 @@
 
 **Cloud & Platform Engineer** from Chile. Vibecoder who mass-prompts AI until it works, then mass-prompts again when it doesn't.
 
-I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scraping sneaker sites at 3am to architecting multi-cloud platforms. Currently focused on cloud architecture, distributed systems, and convincing LLMs to write working code on the first try (still failing at that last one).
+I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scraping sneaker sites at 3am to architecting cloud platforms. Most of my infrastructure experience is on **AWS** (Lambda, RDS, Cognito, EventBridge, SES). Currently focused on cloud architecture, distributed systems, and convincing LLMs to write working code on the first try (still failing at that last one).
 
 ---
 
@@ -39,6 +39,7 @@ I've built and shipped **$66K+ ARR** in SaaS products from scratch — from scra
 ![Anthropic](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Twelve Labs](https://img.shields.io/badge/Twelve_Labs-000000?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
 
 **Data, Scraping & Automation**
