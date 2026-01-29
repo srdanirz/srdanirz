@@ -129,6 +129,12 @@ Currently focused on distributed systems, cost-efficient cloud architectures, an
 
 ---
 
+## AI Coding Stats
+
+[![StatsCode](https://api.statscode.dev/api/widget/srdanirz?theme=dark)](https://statscode.dev)
+
+---
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielramirezfernandoy/)
